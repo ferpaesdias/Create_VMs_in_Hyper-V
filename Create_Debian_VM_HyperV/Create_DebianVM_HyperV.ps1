@@ -11,7 +11,7 @@ $VMName            = "Debian12_02"
 
 # Link direto para a ISO (será baixada se não existir)
 $ISOUrl            = "https://spsenacbr-my.sharepoint.com/:u:/g/personal/fernando_pdias_sp_senac_br/EWweJTZrNEhOk_TRUU2-pq8BvM76s20MlO-U5q2MevVqVg?e=hP7anY&download=1"
-$ISOPath           = "ISOs\debian12-preseed.iso"
+$ISOPath           = "ISOs\Create_Debian_VM_HyperV\debian12-preseed.iso"
 
 # Recursos de rede
 $SwitchName        = "Default Switch"
